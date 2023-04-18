@@ -1,0 +1,44 @@
+[
+  {
+    "id": "react",
+    "name": "React",
+    "category": "Component Library",
+    "gradient": "",
+    "image": "/images/React.png"
+  },
+  {
+    "id": "nextjs",
+    "name": "Next.js",
+    "category": "Fullstack Framework",
+    "gradient": "",
+    "image": "/images/Nextjs.png"
+  },
+  {
+    "id": "tailwind",
+    "name": "Tailwind CSS",
+    "category": "CSS Utility Library",
+    "gradient": "",
+    "image": "/images/Tailwind.png"
+  },
+  {
+    "id": "turbopack",
+    "name": "Turbopack",
+    "category": "New-gen Bundler",
+    "gradient": "",
+    "image": "/images/Turbopack.png"
+  },
+  {
+    "id": "turborepo",
+    "name": "Turborepo",
+    "category": "Monorepo Tool",
+    "gradient": "",
+    "image": "/images/Turborepo.png"
+  },
+  {
+    "id": "vercel",
+    "name": "Vercel",
+    "category": "Platform For Frontend Developers",
+    "gradient": "",
+    "image": "/images/Vercel.png"
+  }
+]
